@@ -16,4 +16,5 @@
 }
 
 12. "Not Equal"
-13.
+
+13. Re-declaration is not allowed for var ,for let and const,re-declaration is not allowed within same scope
